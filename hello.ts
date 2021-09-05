@@ -1,4 +1,6 @@
-class Verhical{
+
+
+class Car  {
     Brand: string;
     Year: number;
 
@@ -12,6 +14,6 @@ class Verhical{
     }
 }
 
-let mes = new Verhical("Mescedess",2015);
+let mes = new Car("Mescedess",2015);
 mes.Display();
 
