@@ -13,7 +13,7 @@ class Car{
         console.log(this.Year);
     }
 }
-//change hello.ts 1
+//change hello.ts 2
 
 
 let mes = new Car("Mescedess",2015);
