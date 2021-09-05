@@ -1,4 +1,4 @@
-class Verhical1{
+class Verhical{
     Brand: string;
     Year: number;
 }
