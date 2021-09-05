@@ -1,6 +1,6 @@
 
 
-class Car  {
+class Car{
     Brand: string;
     Year: number;
 
@@ -13,6 +13,8 @@ class Car  {
         console.log(this.Year);
     }
 }
+//change hello.ts 1
+
 
 let mes = new Car("Mescedess",2015);
 mes.Display();
