@@ -17,6 +17,7 @@ class Car{
 }
 
 //sua tren main ko có nhanh 1 lần 1
+//sua tren nhanh 1 lần 1
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 mes.Display();
