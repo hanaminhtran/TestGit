@@ -18,6 +18,6 @@ class Car{
 //change hello.ts 12
 
 
-let mes = new Car("Mercedes",2015, "Minh");
+let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 mes.Display();
 
