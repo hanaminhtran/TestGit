@@ -16,6 +16,8 @@ class Car{
     }
 }
 //change on anpha branch
+//them dong vao hello.ts
+
 
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
