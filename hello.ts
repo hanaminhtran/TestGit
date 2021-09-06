@@ -15,17 +15,6 @@ class Car{
         console.log(this.Owner);
     }
 }
-<<<<<<< HEAD
-//change hello.ts 12
-// change main branch
-//change on branch beta 
-=======
-//change on anpha branch
-//them dong vao hello.ts
-
-
->>>>>>> alpha
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 mes.Display();
-
