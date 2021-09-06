@@ -15,7 +15,7 @@ class Car{
         console.log(this.Owner);
     }
 }
-//change hello.ts 11  
+//change hello.ts 12
 
 
 let mes = new Car("Mercedes",2015, "Minh");
