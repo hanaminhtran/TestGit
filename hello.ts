@@ -21,4 +21,5 @@ class Car{
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 
 let mes = new Car("Mercedes",2021, "Tran Quang Minh");
+let mes = new Car("Mercedes",2010, "Tran Quang Minh");
 mes.Display();
