@@ -15,7 +15,7 @@ class Car{
         console.log(this.Owner);
     }
 }
-
+//sua gi day cho sung đột
 //sua tren main
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
