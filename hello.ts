@@ -17,6 +17,6 @@ class Car{
 }
 //sua gi day cho sung đột
 //sua tren main
-
+//okokokok 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 mes.Display();
