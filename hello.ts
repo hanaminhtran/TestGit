@@ -23,6 +23,7 @@ let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 let mes = new Car("Mercedes",2021, "Tran Quang Minh");
 let mes = new Car("Mercedes",2023, "Tran Quang Minh");
 let mes = new Car("Mercedes",0000, "Tran Quang Minh");
+let mes = new Car("Mercedes",2010, "Tran Quang Minh");
 
 
 mes.Display();
