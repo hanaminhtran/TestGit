@@ -15,6 +15,7 @@ class Car{
         console.log(this.Owner);
     }
 }
+//sua nhanh 2
 
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
