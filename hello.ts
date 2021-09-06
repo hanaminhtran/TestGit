@@ -19,4 +19,6 @@ class Car{
 //sua tren main
 //okokokok 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
+
+let mes = new Car("Mercedes",2021, "Tran Quang Minh");
 mes.Display();
