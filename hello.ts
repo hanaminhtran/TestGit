@@ -2,22 +2,22 @@
 class Car{
     Brand: string;
     Year: number;
-    Ower : string;
+    Owner : string;
 
-    constructor(brand: string, year: number, ower: string){
+    constructor(brand: string, year: number, owner: string){
         this.Brand = brand;
         this.Year = year;
-        this.Ower = ower;
+        this.Owner = owner;
     }
     Display(){
         console.log(this.Brand);
         console.log(this.Year);
-        console.log(this.Ower);
+        console.log(this.Owner);
     }
 }
-//change hello.ts 9
+//change hello.ts 11  
 
 
-let mes = new Car("Mescedess",2015, "Minh");
+let mes = new Car("Mercedes",2015, "Minh");
 mes.Display();
 
