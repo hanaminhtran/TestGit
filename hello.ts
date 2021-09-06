@@ -17,6 +17,7 @@ class Car{
 }
 //change hello.ts 12
 // change main branch
+//change on branch beta 
 
 let mes = new Car("Mercedes",2015, "Tran Quang Minh");
 mes.Display();
