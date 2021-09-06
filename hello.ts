@@ -15,7 +15,7 @@ class Car{
         console.log(this.Ower);
     }
 }
-//change hello.ts 6
+//change hello.ts 7
 
 
 let mes = new Car("Mescedess",2015, "Minh");
